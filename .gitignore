@@ -4,6 +4,10 @@ node_modules/
 # Environment variables
 .env
 
+# Firebase Admin SDK (contains private key - NEVER commit!)
+firebase_admin.json
+serviceAccount.json
+
 # Logs
 logs
 *.log
